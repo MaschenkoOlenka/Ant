@@ -1,0 +1,7 @@
+<progect name="Ant">
+
+<target name="call_ant">
+<echo>Hi Ant</echo>
+</target>
+
+</project>

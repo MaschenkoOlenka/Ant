@@ -1,7 +1,0 @@
-<project name="Ant">
-
-<target name="call_mom">
-<echo> Hi Ant! </echo>
-</target>
-
-</project>
